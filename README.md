@@ -1,5 +1,10 @@
--------------------------------------------------
-Best Model Saved       Test loss        Test acc
-=================================================
-     Best model         0.19263         0.95352
--------------------------------------------------
+# **ECE GY 7123 Deep Learning**
+
+## Mini Project for Image Classification (CIFAR-10)
+
+
+> Student Name:
+
+
+*   Xiaoyu Wang
+*   Yiren Dai
